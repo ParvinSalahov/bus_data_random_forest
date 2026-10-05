@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated model and prediction artifacts
+models/
+outputs/
+*.joblib
+*.pkl
+
+# Local environment and editor files
+.env
+.vscode/
+.idea/
